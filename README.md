@@ -1,3 +1,3 @@
 # trial
 Exploring  repos 
-AUthor- Shaurya Tomar
+Author- Shaurya Tomar
